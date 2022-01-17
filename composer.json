@@ -1,0 +1,15 @@
+{
+    "name": "szsascha/php-redis-queue",
+    "description": "Use redis for queues in php.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "szsascha",
+            "email": "43013380+szsascha@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {}
+}
